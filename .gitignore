@@ -1,0 +1,14 @@
+*.json 
+*.dll
+*.cashe*
+*.pdb
+*.txt
+*.Assemblyinfo* 
+*.props
+*Attributes*
+*.targets*
+*nuget*
+*imeconfig*
+*pile*
+*Reference*
+*assets*
